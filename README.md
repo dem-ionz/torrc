@@ -13,4 +13,4 @@ careful as possible.
 
 
 If you want please donate Bitcoin: 1Kp9UMew1E9iWCp6z3G7ExxS6CdWUy2o48 
-https://www.wssh.pw/
+# https://www.wssh.pw/
